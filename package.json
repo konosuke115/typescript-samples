@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "ts-node-dev --respawn",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,8 +18,10 @@
     "url": "https://github.com/konosuke115/typescript-samples/issues"
   },
   "homepage": "https://github.com/konosuke115/typescript-samples#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "ts-node": "^8.6.2",
+    "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.7.5"
   }
 }
