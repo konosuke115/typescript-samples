@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/konosuke115/typescript-samples/issues"
   },
-  "homepage": "https://github.com/konosuke115/typescript-samples#readme"
+  "homepage": "https://github.com/konosuke115/typescript-samples#readme",
+  "dependencies": {
+    "typescript": "^3.7.5"
+  }
 }
