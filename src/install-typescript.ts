@@ -1,2 +1,2 @@
-var message: string = 'Hello, ts-node-dev!!'
-console.log({ message })
+var message: string = 'Hello, ts-node-dev!!';
+console.log({ message });
